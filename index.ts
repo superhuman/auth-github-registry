@@ -3,7 +3,7 @@
 import fetch from "node-fetch";
 import { execFile } from "promisify-child-process";
 
-const CLIENT_ID = "7575f056cd20be33b5e0";
+const CLIENT_ID = "9901d5360cc3330bfea6";
 
 type CodeRequest = {
   scope: string;
